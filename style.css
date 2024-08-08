@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: grey;
+}
+h1{
+  background-color: black;
+  color: orange;
+}
+p{
+  color: white;
+}
+h2{
+  background-color: black;
+  color: yellow;
+}
+img{
+  width: 40%;
+}
